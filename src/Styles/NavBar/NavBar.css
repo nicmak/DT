@@ -1,0 +1,15 @@
+.NavBar {
+	display:flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.Title-logo {
+	order:1;
+	color: white;
+	font-size: 45px
+}
+
+.NavBar-Buttons {
+  order:2;
+}

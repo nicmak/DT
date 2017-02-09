@@ -1,0 +1,19 @@
+.document-container {
+	flex:display;
+	flex-direction: row;
+}
+
+.drawer {
+	order:1;
+}
+
+.child {
+	order:2;
+	margin-left: 257px;
+	display:flex;
+	flex-direction: row;
+  background: rgba(128, 128, 128, 0.43);	
+  height:1000px;
+}
+
+
